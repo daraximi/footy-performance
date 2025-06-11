@@ -1,0 +1,37 @@
+# Core scraping packages
+requests
+beautifulsoup4
+selenium
+scrapy
+
+# HTTP handling & parsing
+lxml
+html5lib
+urllib3
+
+# Browser automation (if needed for JavaScript-heavy sites)
+chromedriver-autoinstaller
+webdriver-manager
+
+# Database
+psycopg2-binary  # PostgreSQL adapter
+sqlalchemy      # ORM
+
+# File storage alternatives
+pandas
+pyarrow     # For Parquet files
+openpyxl      # Excel files
+
+# Data manipulation
+numpy
+pandas
+python-dateutil
+
+# Utilities
+python-dotenv   # Environment variables
+#schedule         # Task scheduling
+logging
+
+# Rate limiting & retries
+ratelimit
+tenacity
