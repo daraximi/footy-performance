@@ -1,4 +1,5 @@
 # footy-performance
+# Currently on hold until the start of the 2025-2026 season
 ## Player Performance & Injury Forecaster 
 This project focuses on predicting player performance and the likelihood of injuries.
 
